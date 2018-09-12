@@ -1,0 +1,28 @@
+{
+  "symbol": "DDC",
+  "address": "0x0907a00fd123719B87B2fA8eae9690B8eF1DE704",
+  "overview":{
+        "en": Dynamic Data Chain",
+        "zh": "动态数据链"
+  },
+  "email": "a11888@126.com",
+  "website": "https://DDCoin.tech/",
+  "whitepaper": "https://DDCoin.tech/file.pdf",
+  "state": "LOCKED",
+  "published_on": "2018-09-01",
+  "initial_price":{
+        "ETH":"0.00000666 ETH",
+        "USD":"0.01 USD",
+        "BTC":"0.00000001 BTC"
+  },
+  "links": {
+    "blog": "https://DDCoin.tech/blog",
+    "twitter": "https://twitter.com/DDCoin",
+    "telegram": "https://t.me/joinchat/DDcoin",
+    "github": "https://github.com/DDcoin",
+    "facebook": "https://www.facebook.com/DDcoin",
+    "reddit": "https://www.reddit.com/r/DDcoin/",
+    "slack": "https://DDcoin.slack.com",
+    "medium": "https://medium.com/DDcoin"
+  }
+} 
